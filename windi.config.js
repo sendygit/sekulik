@@ -4,7 +4,7 @@ export default defineConfig({
   theme: {
     extend: {
       colors: {
-        primary: "#008AFF",
+        primary: "#00D208",
       },
       fontFamily: {
         roboto: '"Roboto", sans-serif',
